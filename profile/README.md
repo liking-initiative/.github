@@ -1,10 +1,8 @@
 # The Liking Initiative
 
-A curated database of subjective liking ratings for decision-making research:
+A curated database of subjective liking ratings for value-based decision-making research:
 759,399 individual ratings from 38 studies (59 datasets) covering 2,217
-stimuli, food items and consumer products. Every published study links to its
-source paper, and every rating is provided both in its original scale units
-and normalized to 0–1 for cross-study comparison.
+stimuli, food items and consumer products.
 
 Visit [liking-rating-frontend.onrender.com](https://liking-rating-frontend.onrender.com) to explore the database.
 
