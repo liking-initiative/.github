@@ -8,7 +8,7 @@ Visit [liking-rating-frontend.onrender.com](https://liking-rating-frontend.onren
 
 ## Repositories
 
-- [liking-rating-database](https://github.com/kiante-fernandez/liking-rating-database) – Website, API, migrations and the data release pipeline
+- [liking-rating-database](https://github.com/liking-initiative/liking-rating-database) – Website, API, migrations and the data release pipeline
 - [likingInitiative-r](https://github.com/liking-initiative/likingInitiative-r) – R package
 - [likingInitiative-py](https://github.com/liking-initiative/likingInitiative-py) – Python package
 
