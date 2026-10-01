@@ -16,7 +16,13 @@ Releases are archived on Zenodo: [10.5281/zenodo.22216442](https://doi.org/10.52
 
 ## Citation
 
-If you use this database, please cite it:
+If you use this database, please cite the paper that describes it:
+
+> Fernandez, K., Goyal, S., & Krajbich, I. (2026). A database of subjective
+> evaluation ratings for decision-making research. Retrieved from
+> https://osf.io/preprints/psyarxiv/af2nr_v1
+
+To cite the data themselves, cite the Zenodo record:
 
 > Fernandez, K., Goyal, S., & Krajbich, I. (2026). The Liking Initiative: a
 > database of subjective evaluation ratings for decision-making research
