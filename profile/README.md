@@ -9,8 +9,16 @@ Visit [liking-rating-frontend.onrender.com](https://liking-rating-frontend.onren
 ## Repositories
 
 - [liking-rating-database](https://github.com/liking-initiative/liking-rating-database) – Website, API, migrations and the data release pipeline
-- [likingInitiative-r](https://github.com/liking-initiative/likingInitiative-r) – R package
-- [likingInitiative-py](https://github.com/liking-initiative/likingInitiative-py) – Python package
+- [likingInitiative-r](https://github.com/liking-initiative/likingInitiative-r) – R package, on [CRAN](https://cran.r-project.org/package=likingInitiative)
+- [likingInitiative-py](https://github.com/liking-initiative/likingInitiative-py) – Python package, on [PyPI](https://pypi.org/project/likingInitiative/)
+
+```r
+install.packages("likingInitiative")
+```
+
+```bash
+pip install likingInitiative
+```
 
 Releases are archived on Zenodo: [10.5281/zenodo.22216442](https://doi.org/10.5281/zenodo.22216442).
 
